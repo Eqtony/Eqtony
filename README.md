@@ -1,14 +1,10 @@
-### Привет! 👋
+# (ДАННЫЙ README НАХОДИТСЯ В СТАДИИ ЗАПОЛНЕНИЯ)
+### Привет! 👋 
 
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование:
-  - 
-  - 
-  - 
-* 
-*  
-* 
-* 
+  - Среднее специальное
+  
 
 ### 📚 Проекты 📚
 
@@ -22,14 +18,10 @@
     * 
 
 ### ⚡️ В настоящее время ⚡️
-- 
-- 
-- 
-- 
+- Занимаюсь обучением на платформе SkillFactory
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram]()
-- [Kaggle]()
+- [Telegram](https://t.me/Eqtony)
 
 ---
 
@@ -37,13 +29,8 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
+ - Secondary professional education
+
 
 ### 📚 Projects 📚
 
@@ -58,11 +45,7 @@
 
 
 ### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
+- Study on an online platform SkillFactory
 
 ### 🙌🏻 Contact me
-- [Telegram]()
-- [Kaggle]()
+- [Telegram](https://t.me/Eqtony)
